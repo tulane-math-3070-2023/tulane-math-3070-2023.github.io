@@ -6,6 +6,10 @@ _site/
 .bundle/
 vendor/
 
+HW/
+
+syllabus/
+
 # Mac OS tmp files
 .DS_Store
 
