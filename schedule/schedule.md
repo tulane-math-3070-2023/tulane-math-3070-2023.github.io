@@ -11,7 +11,6 @@ Math 3070/6070 tentative schedule and handouts (expect frequent updates)
 
 [pre-lecture notes](../notes/current.pdf)
 
-[tentative next lecture notes](../notes/next.pdf)
 
 <!---->
 
