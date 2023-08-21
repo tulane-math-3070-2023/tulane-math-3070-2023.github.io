@@ -13,3 +13,6 @@ syllabus/
 # Mac OS tmp files
 .DS_Store
 
+# notes
+notes/
+
