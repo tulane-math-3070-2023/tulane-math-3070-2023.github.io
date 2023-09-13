@@ -29,6 +29,6 @@ Topics:
 | **08/21** Introduction | **08/23** Set Theory | **08/25** Set Theory cont. | [HW1](../HW/HW1/HW1.pdf)|
 | **08/28** Axioms of Probability | **08/30** Calculus of Probability | **09/01** Conditional Probability | |
 | **09/04** _no class_ (Labor day)| **09/06** Independence  | **09/08** Random Variables  | [HW2](../HW/HW1.5/HW2.pdf) |
-| **09/11** Cumulative Distribution Function | **09/13** Discrete Random Variables | | |
+| **09/11** Cumulative Distribution Function | **09/13** Discrete Random Variables | **09/15** Continuous Random Variables | |
 |  |  | **10/06** _no class_ (fall break) | |
 | **11/21** _no class_ (Thanksgiving break) | **11/23** _no class_ (Thanksgiving break) | **11/25** _no class_ (Thanksgiving break) | |
