@@ -31,6 +31,6 @@ Topics:
 | **09/04** _no class_ (Labor day)| **09/06** Independence  | **09/08** Random Variables  | [HW2](../HW/HW1.5/HW2.pdf) |
 | **09/11** Cumulative Distribution Function | **09/13** Discrete Random Variables | **09/15** Continuous Random Variables | |
 | **09/18** Transformations | **09/20** Transformations | **09/22** Transformations | [HW3](../HW/HW2/HW3.pdf) |
-| **09/26** Expectations | | | |
+| **09/26** Expectations | **09/28** Expectations | | |
 |  | **10/04** Midterm exam 1 | **10/06** _no class_ (fall break) | |
 | **11/21** _no class_ (Thanksgiving break) | **11/23** _no class_ (Thanksgiving break) | **11/25** _no class_ (Thanksgiving break) | |
