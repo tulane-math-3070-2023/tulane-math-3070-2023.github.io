@@ -32,5 +32,6 @@ Topics:
 | **09/11** Cumulative Distribution Function | **09/13** Discrete Random Variables | **09/15** Continuous Random Variables | |
 | **09/18** Transformations | **09/20** Transformations | **09/22** Transformations | [HW3](../HW/HW2/HW3.pdf) |
 | **09/25** Expectations | **09/27** Expectations | **09/29** Moments | |
-|  | **10/04** Midterm exam 1 | **10/06** _no class_ (fall break) | |
+| **10/02** Review  | **10/04** Midterm exam 1 | **10/06** _no class_ (fall break) | |
+| **10/09** Midterm exam 1 review & Moments | | | |
 | **11/21** _no class_ (Thanksgiving break) | **11/23** _no class_ (Thanksgiving break) | **11/25** _no class_ (Thanksgiving break) | |
