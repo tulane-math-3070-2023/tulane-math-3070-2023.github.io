@@ -35,5 +35,5 @@ Topics:
 | **10/02** Review  | **10/04** Midterm exam 1 | **10/06** _no class_ (fall break) | |
 | **10/09** Midterm exam 1 review & Moments | **10/11** Moments | **10/13** Moments | [HW4](../HW/HW4/HW4.pdf)|
 | **10/16** Moment Generating Functions | **10/18** Common Discrete Distributions | **10/20** Common Discrete Distributions | |
-| **10/23** Common Discrete Distributions | | | |
+| **10/23** Common Discrete Distributions | **10/25** Common Continuous Distributions | | |
 | **11/21** _no class_ (Thanksgiving break) | **11/23** _no class_ (Thanksgiving break) | **11/25** _no class_ (Thanksgiving break) | |
