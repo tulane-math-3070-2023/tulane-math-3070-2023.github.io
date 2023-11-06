@@ -37,4 +37,5 @@ Topics:
 | **10/16** Moment Generating Functions | **10/18** Common Discrete Distributions | **10/20** Common Discrete Distributions | |
 | **10/23** Common Discrete Distributions | **10/25** Common Continuous Distributions | **10/27** Common Continuous Distributions | |
 | **10/30** Common Continuous Distributions | **11/01** Common Continuous Distributions | **11/01** Common Continuous Distributions | [HW5](../HW/HW5/HW5.pdf) |
+| **11/06** Common Continuous Distributions | | | |
 | **11/21** _no class_ (Thanksgiving break) | **11/23** _no class_ (Thanksgiving break) | **11/25** _no class_ (Thanksgiving break) | |
