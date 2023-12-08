@@ -41,4 +41,4 @@ Topics:
 | **11/13** Exponential Family | **11/15** Midterm Exam 2 | **11/17** Midterm Exam 2 review| |
 | **11/20** _no class_ (Thanksgiving break) | **11/22** _no class_ (Thanksgiving break) | **11/24** _no class_ (Thanksgiving break) | |
 | **11/27** Joint and Marginal Distributions | **11/29** Joint and Marginal Distributions | **12/01** Independence | [HW6](../HW/HW6/HW6.pdf) |
-| **12/04** Expectation | **12/06** Transformations | | |
+| **12/04** Expectation | **12/06** Transformations | **12/08** CLT | |
